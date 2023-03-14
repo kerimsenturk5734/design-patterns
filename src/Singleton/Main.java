@@ -1,3 +1,5 @@
+package Singleton;
+
 import Singleton.*;
 
 public class Main {
